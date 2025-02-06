@@ -81,5 +81,5 @@ describe('GenericDAO Tests', () => {
     });
   });
 
-  // Implementação similar para Product e Order
+
 });
